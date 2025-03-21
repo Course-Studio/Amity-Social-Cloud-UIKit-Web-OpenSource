@@ -17,6 +17,10 @@
     "./dist/index.css": {
       "import": "./dist/esm/index.css",
       "default": "./dist/index.css"
+    },
+    "./src/": {
+      "import": "./src/",
+      "default": "./src/"
     }
   },
   "files": [
